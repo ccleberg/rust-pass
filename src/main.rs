@@ -312,8 +312,8 @@ fn decrypt(ciphertext: String) -> String {
 // Interpret user commands
 fn main() {
     let matches = App::new("rpass")
-        .version("1.0")
-        .author("cmc <hello@cleberg.net>")
+        .version("1.1")
+        .author("Christian Cleberg <hello@cmc.pub>")
         .about("A safe and convenient command-line password vault.")
         .arg(Arg::with_name("new")
             .short("n")
