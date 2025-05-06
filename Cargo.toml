@@ -1,12 +1,12 @@
 [package]
 name = "rpass"
-version = "0.1.1"
-authors = ["Christian Cleberg <hello@cmc.pub>"]
+version = "0.1.2"
+authors = ["Christian Cleberg <hello@cleberg.net>"]
 license = "GPL-3.0-or-later"
 description = "A simple command-line password manager, written in Rust + SQLite."
 readme = "README.md"
-homepage = "https://sr.ht/~cyborg/rpass/"
-repository = "https://git.sr.ht/~cyborg/rpass"
+homepage = "https://github.com/ccleberg/rust-pass"
+repository = "https://github.com/ccleberg/rust-pass"
 keywords = ["cli", "password-manager", "password-generator"]
 categories = ["command-line-utilities"]
 edition = "2018"
